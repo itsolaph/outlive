@@ -12,6 +12,11 @@ itself an agent that attributes the vault's on-chain revenue to independent cust
 payback on chain-visible costs, and buys. Testnet only. Built for the NEAR hackathon (November
 2026), tracks `nfts` and `business`.
 
+**Other entry by the same author.** [RehearseGate](https://github.com/itsolaph/rehearse-gate) (track
+`security`) is a separate project submitted to the same hackathon: an on-chain gate that lets a NEAR
+contract upgrade only with a signed PASS receipt from an off-chain rehearsal. It shares no code
+with Outlive.
+
 **In the real world.** Picture a vending machine on a good corner. You can copy the machine in an
 afternoon; you cannot copy the corner, the four years of people walking past it, or the till it
 fills. Software has no resale value for exactly that reason: the code is the machine and the
